@@ -14,7 +14,8 @@ DWP Deployment Plan With Git Hooks and Production Deployment
   * sudo apt-get upgrade
   * sudo apt-get update
 
-  ####Apache Install and Config 
+  ####Apache Install and Confi
+g 
 1.Install Apache 2
   * sudo apt-get install apache2
 
